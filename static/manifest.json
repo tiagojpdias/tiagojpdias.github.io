@@ -1,0 +1,21 @@
+{
+  "display": "minimal-ui",
+  "name": "Football-data",
+  "short_name": "FootData",
+  "description": "Footbal informations",
+  "start_url": "/",
+  "background_color": "#000000",
+  "theme_color": "#34495e",
+  "icons": [
+    {
+      "src": "../src/assets/logo.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "../src/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
